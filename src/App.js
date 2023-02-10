@@ -106,7 +106,7 @@ function App() {
         </div>
         <div className="py-20 ">
           <hr className="w-11/12 m-auto" />
-          <h3 className="text-1xl p-5 text-lime-100 font-light text-center">Copyright ©</h3>
+          <h3 className="text-1xl p-5 text-lime-100 font-light text-center">Copyright © Mitali</h3>
         </div>
       </body>
     </div>

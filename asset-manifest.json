@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/earthly/static/css/main.c6f6a09d.css",
+    "main.js": "/earthly/static/js/main.fbfed001.js",
+    "index.html": "/earthly/index.html",
+    "main.c6f6a09d.css.map": "/earthly/static/css/main.c6f6a09d.css.map",
+    "main.fbfed001.js.map": "/earthly/static/js/main.fbfed001.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f6a09d.css",
+    "static/js/main.fbfed001.js"
+  ]
+}
